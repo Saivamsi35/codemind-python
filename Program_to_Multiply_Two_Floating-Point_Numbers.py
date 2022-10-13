@@ -1,0 +1,5 @@
+n=float(input())
+m=float(input())
+p=(n*m)
+a="{:.2f}".format(p)
+print(a)
