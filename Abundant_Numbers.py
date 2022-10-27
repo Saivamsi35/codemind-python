@@ -1,4 +1,3 @@
-#sum>given number print True else False
 n=int(input())
 sum=0
 for i in range(1,n):
